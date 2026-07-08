@@ -1,0 +1,6 @@
+.env
+telegram_uploader.session
+telethon_uploader.session
+
+__pycache__/
+venv
